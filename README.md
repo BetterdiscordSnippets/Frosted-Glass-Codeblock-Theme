@@ -1,5 +1,5 @@
 # Frosted Glass - Codeblock Theme
-A codeblock theme that changes the appearance of Discord's regular codeblocks using some of [Frosted Glass](https://github.com/DiscordStyles/FrostedGlass) colors and background image with extra colors. Check out my other codeblock theme - [Wildberry](https://github.com/DiscordAddons/Wildberry-Codeblock-Theme).
+A codeblock theme that changes the appearance of Discord's standard codeblocks using some of [Frosted Glass](https://github.com/DiscordStyles/FrostedGlass) colors and background image with extra colors. Check out my other codeblock theme - [Wildberry](https://github.com/DiscordAddons/Wildberry-Codeblock-Theme).
 
 # Picture
 ![image](https://user-images.githubusercontent.com/72931279/112011210-6a9e0800-8afe-11eb-83b9-0cbddf8e1851.png)
